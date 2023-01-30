@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98954425/215583593-519e68a3-9747-4112-af05-9a03646643ce.png)
+<img align="right" alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FheyValdemar%2FheyValdemar&psig=AOvVaw2xQpPX7aQTL7T-HTnfDrG0&ust=1675195138406000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOic59KK8PwCFQAAAAAdAAAAABAJ">
 <h1 align="center">Hi 👋, I'm Raza Husain Rizwi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
