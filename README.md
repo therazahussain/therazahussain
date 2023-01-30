@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therazahussain&label=Profile%20views&color=0e75b6&style=flat" alt="therazahussain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therazahussain" alt="therazahussain" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/the_razahussain" target="blank"><img src="https://img.shields.io/twitter/follow/the_razahussain?logo=twitter&style=for-the-badge" alt="the_razahussain" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
@@ -16,6 +14,8 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **razahussain3301@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
