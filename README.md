@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/98954425/215583355-8b24aba3-fef0-4304-959b-9ffbe81158cd.png)
+![image](https://user-images.githubusercontent.com/98954425/215583593-519e68a3-9747-4112-af05-9a03646643ce.png)
 <h1 align="center">Hi 👋, I'm Raza Husain Rizwi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
