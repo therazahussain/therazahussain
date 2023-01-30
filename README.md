@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FheyValdemar%2FheyValdemar&psig=AOvVaw2xQpPX7aQTL7T-HTnfDrG0&ust=1675195138406000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOic59KK8PwCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <h1 align="center">Hi 👋, I'm Raza Husain Rizwi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
