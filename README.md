@@ -1,4 +1,4 @@
-![MasterHead]([https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
+![MasterHead](https://user-images.githubusercontent.com/98954425/215583355-8b24aba3-fef0-4304-959b-9ffbe81158cd.png)
 <h1 align="center">Hi 👋, I'm Raza Husain Rizwi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
