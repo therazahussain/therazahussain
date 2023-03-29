@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_razahussain" target="blank"><img src="https://img.shields.io/twitter/follow/the_razahussain?logo=twitter&style=for-the-badge" alt="the_razahussain" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN Stack**
 
