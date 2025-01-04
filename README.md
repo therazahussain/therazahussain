@@ -4,7 +4,7 @@
 
 
  # 💫 About Me:
-🌱 I’m currently learning DJango<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me razahussain3301@gmail.com<br>
+🌱 I’m currently learning AWS<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me razahussain3301@gmail.com<br>
 
 
 ## 🌐 Socials:
